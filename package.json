@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.46.0"
     },
+    "repository":{
+        "type": "git",
+        "url": "https://github.com/justinyates887/discord-vs-theme"
+    },
     "categories": [
         "Themes"
     ],

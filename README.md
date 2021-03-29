@@ -10,4 +10,4 @@ formatting for functions, parameters, and variables, as keeping these all white 
 That being said, I'm happy with the outcome. 
 
 
-![image](./Capture.png)
+![image](./Capture.PNG)
