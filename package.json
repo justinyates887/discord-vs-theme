@@ -1,0 +1,22 @@
+{
+    "name": "discord-theme",
+    "displayName": "Discord Theme",
+    "description": "A Discord themed Visual Studio Code environment.",
+    "version": "0.0.1",
+    "publisher": "SmallBlueDevelopment",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Discord Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Discord Theme-color-theme.json"
+            }
+        ]
+    }
+}
