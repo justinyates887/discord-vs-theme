@@ -1,6 +1,7 @@
 # Discord VS Theme
 
 ![badge](https://img.shields.io/visual-studio-marketplace/d/SmallBlueDevelopment.discord-theme)
+![badge2](https://img.shields.io/visual-studio-marketplace/stars/SmallBlueDevelopment.discord-theme?color=blue)
 
 This theme is mainly for personal use, and was a quick side project, but if you decide to use it and enjoy it I'm glad.
 
